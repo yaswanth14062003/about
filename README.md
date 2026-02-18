@@ -10,8 +10,9 @@
 </p>
 
 - 🛠️ Experienced in -- **Python 🐍, SQL 🗃️, Scikit-learn 🧪, TensorFlow 🤖, PyTorch 🔥, NumPy 🧮, Pandas 🐼, Matplotlib 📈**
-- 🔍 Currently exploring -- **Generative AI 🎨, Large Language Models (LLMs), Advanced NLP 🗣️, Computer Vision 👁️, Big Data Analytics 📊**
+- 🔍 Currently exploring -- **Generative AI 🎨, Large Language Models (LLMs), Advanced NLP 🗣️, Computer Vision 👁️, Big Data Analytics 📊, Automation & AI 🤖**
 - 🎓 Pursuing M.S. in **Data Science at Georgia State University (GSU), USA**
+- 🎓 Pursued Bachelor's Degree in **Vellore Institute of Technology**
 - 🤖 Developed:
   - **Automatic Speech Recognition (ASR)** using Whisper & Wav2Vec2.0
   - **Brain Tumor Segmentation** using KNN & image processing
@@ -25,7 +26,7 @@
 - 📫 How to reach me **suramsaiyaswanthreddy@gmail.com**
 
 - ⚡ Fun fact **I’m equally passionate about coding and cricket 🏏**
-- 🏸 When I’m not coding, you’ll find me playing badminton or exploring AI research 🚀
+- 🏸 When I’m not coding, you’ll find me playing chess or exploring AI research 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
